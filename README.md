@@ -7,4 +7,4 @@ notes: There is sample data, `wedding_faridnria.sql`, please adjust your own con
 
 Feel free to copy and modified it.
 
-![Alt text](/screenshot/screencapture-faridnria-wedding-dev-1477630293646.png?raw=true "Screen Shoot")]
+![Alt text](/screenshot/screencapture-faridnria-wedding-dev-1477630293646.png?raw=true "Screenshot")]
