@@ -1,0 +1,15 @@
+
+header, header * {
+	text-align: center;
+}
+
+#id_div_header {
+	margin-bottom: 0;
+	background: initial;
+}
+
+#id_div_header_content   img {
+	max-height:100%;
+	margin-left: auto;
+	margin-right: auto;
+}

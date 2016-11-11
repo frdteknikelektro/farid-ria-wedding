@@ -1,0 +1,17 @@
+#id_section_opening {
+	background: initial;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#id_div_section_opening_title {
+	padding-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+	
+}
+
+@media (max-width: 768px) {
+	
+}

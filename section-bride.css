@@ -1,0 +1,54 @@
+section {
+	background-color: white;
+}
+
+#id_section_bride {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#id_section_bride  {
+	padding-bottom: 15px;
+	background-color: rgb(248, 187, 208);
+	position: relative;
+	border-radius: 1px;
+	box-shadow: 0px 4px 32px -4px #000;
+	z-index: 33;
+}
+
+#id_div_section_bride_title {
+	padding-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+	#id_div_section_bride_love {
+		height: 200px;
+	}
+	#id_div_section_bride_love>img {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		-ms-transform: translate(-50%, -50%);
+		-webkit-transform: translate(-50%, -50%);
+		-moz-transform: translate(-50%, -50%);
+		-o-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+}
+
+@media (max-width: 768px) {
+	#id_section_bride * {
+		text-align: center;
+	}
+	#id_div_section_bride_boy>img,
+	#id_div_section_bride_girl>img	{
+		height: 125px;
+		width: 125px;
+	}
+	#id_div_section_bride_love>img {
+		height: 75px;
+		width: 75px;
+		margin-top: 15px;
+		margin-bottom: 25px;
+	}
+}

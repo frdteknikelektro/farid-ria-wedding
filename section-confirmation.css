@@ -1,0 +1,38 @@
+#id_section_confirmation {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#id_section_confirmation  {
+	padding-bottom: 15px;
+	background-color: rgb(248, 187, 208);
+	position: relative;
+	border-radius: 1px;
+	box-shadow: 0px 4px 32px -4px #000;
+	z-index: 80;
+}
+
+#id_button_confirmation_yes,
+#id_button_confirmation_no {
+	box-shadow: 0px 4px 12px -4px #000;
+}
+
+#id_button_confirmation_yes:hover,
+#id_button_confirmation_yes:focus,
+#id_button_confirmation_no:hover,
+#id_button_confirmation_no:focus {
+	color: white;
+}
+
+@media (min-width: 768px) {
+	
+}
+
+@media (max-width: 768px) {
+	
+	#id_button_confirmation_yes,
+	#id_button_confirmation_no {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+}
